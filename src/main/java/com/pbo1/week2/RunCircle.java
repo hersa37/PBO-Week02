@@ -22,9 +22,7 @@ public class RunCircle {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         
-        Circle circle1=new Circle();
-        Circle circle2=new Circle();
-        
+        Circle circle1=new Circle();      
         
         System.out.println("Masukkan radius lingkaran: ");
         circle1.setRadius(input.nextInt());
@@ -35,6 +33,4 @@ public class RunCircle {
     }
 
 }
-class newclass{
-    
-}
+
