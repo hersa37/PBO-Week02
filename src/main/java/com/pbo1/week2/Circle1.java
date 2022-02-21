@@ -14,6 +14,7 @@ package com.pbo1.week2;
 public class Circle1 {
     
     private double radius;
+    private String x;
     
     public Circle1(double rad){
         radius=rad;
