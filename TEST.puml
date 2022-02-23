@@ -1,0 +1,6 @@
+@startuml
+class com.pbo1.week2.Circle1
+class com.pbo1.week2.Circle1_Main
+class java.util.Scanner
+com.pbo1.week2.Circle1_Main ..> java.util.Scanner
+@enduml
